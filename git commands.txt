@@ -1,0 +1,14 @@
+under the gitproject folder 
+
+-git clone URL
+
+-git branch 
+
+-git status -avv
+
+-git diff 
+
+-git diff __final_model.R
+
+
+-git pull --rebase
